@@ -3,7 +3,7 @@ import java.lang.Math;
 public class PiCalculator implements Runnable{
 	
 	float piAccuracy;
-	//prova prova
+	
 	public PiCalculator(float accuracy) {
 		this.piAccuracy = accuracy;
 	}
